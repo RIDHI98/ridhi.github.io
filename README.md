@@ -1,6 +1,6 @@
 # Multimedia Project Tutorials
 
-This is the multimedia project tutorial being presented by Avitrya Singh (RA1711003011007).
+This is the multimedia project tutorial being presented by Ridhi Sipani (RA1711003010743).
 
 ## Experiments
 
